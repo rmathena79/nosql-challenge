@@ -9,4 +9,6 @@ Data Analytics Boot Camp Module 12 Challenge
 - **Resources/establishments.json**: Data provided
         
 ## Instructions
-With a standard environment from class, just open and run any notebook.
+With a standard environment from class, first run all cells in the NoSQL_setup_RPM.ipynb notebook, which will populate and clean up the database.
+
+Then run all cells in the NoSQL_analysis_RPM.ipynb notebook to run the analysis.
